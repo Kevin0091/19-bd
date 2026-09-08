@@ -1,0 +1,6 @@
+{
+  "name": "For September 19",
+  "description": "An intimate, editorial interactive birthday experience and memory capsule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

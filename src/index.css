@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-editorial: "Newsreader", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-handwriting: "Caveat", cursive;
+
+  --color-canvas-dark: #0c0d10;
+  --color-canvas-card: #14151b;
+  --color-canvas-light: #f7f5f0;
+  --color-canvas-ivory: #faf8f5;
+  --color-burgundy-deep: #4e1420;
+  --color-burgundy-accent: #782333;
+  --color-muted-rose: #c08d96;
+  --color-soft-sand: #e6e0d4;
+  --color-subtle-border: rgba(255, 255, 255, 0.08);
+}
+
+/* Custom smooth scroll and subtle typography rhythm */
+html {
+  font-family: var(--font-sans);
+  background-color: #0c0d10;
+  color: #e5e2dc;
+}
+
+::selection {
+  background: rgba(180, 80, 100, 0.35);
+  color: #ffffff;
+}
+
+/* Subtle custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0c0d10;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #272932;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3e4250;
+}
+
+/* Crossed out text animation/effect */
+.strikethrough-real {
+  position: relative;
+  display: inline-block;
+}
+.strikethrough-real::after {
+  content: "";
+  position: absolute;
+  left: -2px;
+  right: -2px;
+  top: 55%;
+  height: 1.5px;
+  background: currentColor;
+  opacity: 0.6;
+  transform: rotate(-1.5deg);
+}
