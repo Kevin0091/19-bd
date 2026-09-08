@@ -96,13 +96,6 @@ export const initialPersonalizationData: PersonalizationData = {
       previewNote: 'Completely unprompted, utterly specific, still sitting clear in my head.',
       expandedStory:
         'We ended up debating something completely ridiculous for forty-five minutes. You took your side with absolute conviction, and I realized how much I loved the way your brain works.',
-      chatSnippet: {
-        speakerA: 'Ranim',
-        speakerB: 'Omar',
-        time: '5:20 PM',
-        textA: 'Mawdhou3 Abu Lahab yb9a fi jhanam wla le AHHAHHHAH',
-        textB: 'I felt real connection w9tha',
-      },
       locationOrContext: 'Unscripted and irreplaceable',
     },
   ],
