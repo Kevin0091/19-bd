@@ -317,7 +317,6 @@ export const initialPersonalizationData: PersonalizationData = {
     },
   ],
 
-  ```js
 openWhenLetters: [
   {
     id: 'when-1',
