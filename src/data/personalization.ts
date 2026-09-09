@@ -317,73 +317,78 @@ export const initialPersonalizationData: PersonalizationData = {
     },
   ],
 
-  openWhenLetters: [
-    {
-      id: 'when-1',
-      trigger: 'Open when you’re having a bad day',
-      teaser: 'Take a deep breath first.',
-      sealLabel: 'Deep breath',
-      content: [
-        'If today felt exhausting, heavy, or just unfair, stop for a second.',
-        'You don’t have to prove anything today. You don’t have to have your life figured out by 10 PM.',
-        'Drink a glass of water. Put on something soft. Remember that one bad day doesn’t erase how capable and resilient you are.',
-        'And if you just need to vent without being given unsolicited advice, my notifications are always open for you.',
-      ],
-      postscript: 'P.S. You’re doing better than you think you are.',
-    },
-    {
-      id: 'when-2',
-      trigger: 'Open when you miss me',
-      teaser: 'Across the miles.',
-      sealLabel: 'Distance check',
-      content: [
-        'I know distance has moments where it feels like a dull weight.',
-        'When you wish you could just grab my sleeve or nudge my arm across a table without having to type a message first.',
-        'Whenever you feel that, know I’m likely looking at my phone or thinking about your laugh at that exact same time.',
-        'Every conversation we have is closing a gap that won’t always be there.',
-      ],
-      postscript: 'Hold on to that. I certainly am.',
-    },
-    {
-      id: 'when-3',
-      trigger: 'Open when you need to smile',
-      teaser: 'Emergency dose of ridiculousness.',
-      sealLabel: 'Smile check',
-      content: [
-        'Remember [INSERT RIDICULOUS INSIDE JOKE OR MOMENT]?',
-        'Think about the face you made when [INSERT SILLY STORY].',
-        'You are entirely too serious sometimes. Untighten your jaw, drop your shoulders away from your ears, and smile.',
-        'There. That’s better.',
-      ],
-      postscript: 'Yes, I know you just smiled.',
-    },
-    {
-      id: 'when-4',
-      trigger: 'Open when you’re wondering what I think about you',
-      teaser: 'No games, just honesty.',
-      sealLabel: 'True thoughts',
-      content: [
-        'I think you have a sharp mind and a tender heart, even if you sometimes pretend to be indifferent.',
-        'I think you make my ordinary days significantly more interesting simply by existing in them.',
-        'I think about what you said about [HER_SPECIAL_THOUGHT_OR_DREAM], and I genuinely admire your courage.',
-        'You’re someone I am deeply, quietly glad to know.',
-      ],
-      postscript: 'That will not change tomorrow.',
-    },
-    {
-      id: 'when-5',
-      trigger: 'Open when you can’t sleep',
-      teaser: 'For the quiet 3 AM ceiling stare.',
-      sealLabel: 'Night quiet',
-      content: [
-        'It’s too late to solve whatever your mind is running laps around.',
-        'Whatever is worrying you will still be there in the morning, but you’ll be much better equipped to handle it after resting.',
-        'Let your screen dim. Close your eyes. Imagine us walking down a quiet street where neither of us has anywhere to be.',
-      ],
-      postscript: 'Sleep well. Talk to you tomorrow.',
-    },
-  ],
+  ```js
+openWhenLetters: [
+  {
+    id: 'when-1',
+    trigger: 'Open when you’re having a bad day',
+    teaser: 'Okay, pause for a second.',
+    sealLabel: 'Bad day protocol',
+    content: [
+      'So today decided to be annoying. It happens.',
+      'You don’t have to pretend you’re fine just because the day is almost over. If you’re tired, be tired. If you’re annoyed, be annoyed. You’re allowed to have bad days without turning them into something bigger than they are.',
+      'Get some water, put your phone down for a few minutes, and do something that normally makes you feel a little better. Even if it’s something completely stupid.',
+      'And if you feel like talking about it, you already know where to find me. No fixing, no judging, just listening.'
+    ],
+    postscript: 'Tomorrow is another day. Hopefully a less annoying one.'
+  },
 
+  {
+    id: 'when-2',
+    trigger: 'Open when you miss me',
+    teaser: 'Yeah, distance is annoying sometimes.',
+    sealLabel: 'Distance check',
+    content: [
+      'I know being far away from people you actually enjoy talking to can be weird sometimes.',
+      'There are probably moments where you wish you could just say something without having to send a message and wait for the other person to see it.',
+      'But honestly, I think it’s pretty cool that somehow, despite all the distance, we still ended up becoming such a big part of each other’s everyday lives.',
+      'So if you’re missing me right now, consider this your reminder that somewhere far away, there’s a friend who is probably going to reply with something stupid as soon as they see your message.'
+    ],
+    postscript: 'Different places, same friendship. That counts for something.'
+  },
+
+  {
+    id: 'when-3',
+    trigger: 'Open when you need to smile',
+    teaser: 'Emergency stupidity incoming.',
+    sealLabel: 'Smile check',
+    content: [
+      'Okay, first of all: stop being so serious for five minutes.',
+      'Remember [INSERT RIDICULOUS INSIDE JOKE OR MOMENT]? Yeah. That was genuinely one of the dumbest things we have ever laughed about.',
+      'And then there was [INSERT SILLY STORY]. I still don’t know how we managed to find that funny, but somehow we did.',
+      'Anyway, whatever happened today, you’re officially required to smile at least once before closing this.'
+    ],
+    postscript: 'If you actually smiled, I’m counting that as a successful mission.'
+  },
+
+  {
+    id: 'when-4',
+    trigger: 'Open when you’re wondering what I think about you',
+    teaser: 'Fine. You asked for honesty.',
+    sealLabel: 'No filter',
+    content: [
+      'I think you’re a genuinely interesting person, and I’m really glad our paths crossed.',
+      'You have your own way of thinking about things, and honestly, some of our conversations have stayed in my head way longer than I expected.',
+      'I respect how you handle things, even when you’re unsure of yourself. And I hope you know that you don’t have to constantly have everything figured out.',
+      'You’re someone I’m genuinely happy to have in my life, and I hope this friendship stays one of those things we can look back on and smile about years from now.'
+    ],
+    postscript: 'That’s the honest answer. No dramatic speech required.'
+  },
+
+  {
+    id: 'when-5',
+    trigger: 'Open when you can’t sleep',
+    teaser: 'Ah yes, the classic 3 AM overthinking session.',
+    sealLabel: 'Night mode',
+    content: [
+      'If you’re reading this at some ridiculous hour, I’m guessing your brain has decided that now is the perfect time to think about absolutely everything.',
+      'Whatever is bothering you probably feels ten times bigger at night. Don’t trust your brain too much when it’s running on zero sleep.',
+      'Put the phone down for a bit, get comfortable, and let tomorrow-you deal with tomorrow’s problems.',
+      'And if you’re still awake anyway, at least listen to something calming and stop staring at the ceiling like it personally offended you.'
+    ],
+    postscript: 'Go sleep. We can continue being idiots tomorrow.'
+  },
+],
   quizQuestions: [
     {
       id: 'q-1',
