@@ -324,45 +324,44 @@ openWhenLetters: [
     teaser: 'Okay, pause for a second.',
     sealLabel: 'Bad day protocol',
     content: [
-      'So today decided to be annoying. It happens.',
-      'You don’t have to pretend you’re fine just because the day is almost over. If you’re tired, be tired. If you’re annoyed, be annoyed. You’re allowed to have bad days without turning them into something bigger than they are.',
-      'Get some water, put your phone down for a few minutes, and do something that normally makes you feel a little better. Even if it’s something completely stupid.',
-      'And if you feel like talking about it, you already know where to find me. No fixing, no judging, just listening.'
+      'So today decided to be annoying. ysir 3la el nse.',
+      'u don’t have to pretend u are fine just because the day is almost over. If u are tired, be tired. If u are annoyed, be annoyed. You’re allowed to have bad days without turning them into something bigger than they are.',
+      'bara sayb 3lik w ochrb chwy ma, eb3d 3la tlfn chwy w arte7, and do something that normally makes you feel a little better. Even if it’s something completely stupid.',
+      'And if you feel like talking about it, hani mawjoud and u already know where to find me. No fixing, no judging, just listening.'
     ],
     postscript: 'Tomorrow is another day. Hopefully a less annoying one.'
   },
 
   {
     id: 'when-2',
-    trigger: 'Open when you miss me',
+    trigger: 'Open when you miss me lol',
     teaser: 'Yeah, distance is annoying sometimes.',
     sealLabel: 'Distance check',
     content: [
-      'I know being far away from people you actually enjoy talking to can be weird sometimes.',
-      'There are probably moments where you wish you could just say something without having to send a message and wait for the other person to see it.',
-      'But honestly, I think it’s pretty cool that somehow, despite all the distance, we still ended up becoming such a big part of each other’s everyday lives.',
-      'So if you’re missing me right now, consider this your reminder that somewhere far away, there’s a friend who is probably going to reply with something stupid as soon as they see your message.'
+      'I know being far away from people u actually enjoy talking to can be weird sometimes.',
+      'There are probably moments where u wish u could just say something without having to send a message and wait for the other person to see it.',
+      'But honestly, I think it’s pretty cool that somehow, malgré the distance, we still ended up becoming such a big part of each other’s everyday lives.',
+      'So if u are missing me right now hhahhhhaha ija hani mawjoud, consider this ur reminder that somewhere far away, there is a friend who is probably gonna reply with something stupid as soon as they see ur message.'
     ],
     postscript: 'Different places, same friendship. That counts for something.'
   },
 
   {
     id: 'when-3',
-    trigger: 'Open when you need to smile',
+    trigger: 'Open when u need to smile',
     teaser: 'Emergency stupidity incoming.',
     sealLabel: 'Smile check',
     content: [
       'Okay, first of all: stop being so serious for five minutes.',
-      'Remember [INSERT RIDICULOUS INSIDE JOKE OR MOMENT]? Yeah. That was genuinely one of the dumbest things we have ever laughed about.',
-      'And then there was [INSERT SILLY STORY]. I still don’t know how we managed to find that funny, but somehow we did.',
+      'bon 3ndich m3ak barcha memories ama ttfkr mnin enti w sa7btk t7kiw b lou8a 8riba? Yeah u got me there a33333. That was genuinely one of the dumbest things ive ever laughed abt.',
       'Anyway, whatever happened today, you’re officially required to smile at least once before closing this.'
     ],
-    postscript: 'If you actually smiled, I’m counting that as a successful mission.'
+    postscript: 'Ya rabi nchlh tadh7k'
   },
 
   {
     id: 'when-4',
-    trigger: 'Open when you’re wondering what I think about you',
+    trigger: 'Open when you’re wondering what I think about u',
     teaser: 'Fine. You asked for honesty.',
     sealLabel: 'No filter',
     content: [
@@ -377,7 +376,7 @@ openWhenLetters: [
   {
     id: 'when-5',
     trigger: 'Open when you can’t sleep',
-    teaser: 'Ah yes, the classic 3 AM overthinking session.',
+    teaser: 'A33 yyy, el ara9 session.',
     sealLabel: 'Night mode',
     content: [
       'If you’re reading this at some ridiculous hour, I’m guessing your brain has decided that now is the perfect time to think about absolutely everything.',
