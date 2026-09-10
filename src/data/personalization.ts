@@ -73,7 +73,7 @@ export const initialPersonalizationData: PersonalizationData = {
       tag: '03 / MIDNIGHT DRIFT',
       title: 'The conversation that lasted way too long',
       date: 'Late August',
-      previewNote: '“It started with one topic and somehow ended somewhere completely different.',
+      previewNote: '“It started with one topic and somehow ended somewhere completely different.”',
       expandedStory:
         'We started talking about one completely normal thing, then somehow jumped from one subject to another until the conversation made absolutely no sense anymore. At some point we were just sending random thoughts, arguing about nonsense, and laughing at things that probably wouldn’t be funny to anyone else.',
       locationOrContext: 'Late night conversations and completely random topics',
