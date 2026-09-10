@@ -18,16 +18,16 @@ export const initialPersonalizationData: PersonalizationData = {
   },
 
   openingMessages: {
-    curiosityLine: 'Before you open this…',
-    intimateLine: 'There are a few quiet things I wanted to write down for you.',
+    curiosityLine: 'Before u open this…',
+    intimateLine: 'There are a few quiet things I wanted to write down for a7la msatka <3.',
     buttonLabel: 'Open it',
   },
 
   introLetter: {
-    headline: 'Some things are easier to build than to say.',
+    headline: 'Some things r easier to build than to say.',
     body: [
-      'I didn’t want to send a hurried paragraph over a chat screen that disappears in an hour.',
-      'A year turns quietly, but certain people shift the gravity of everyday days without even making a sound. You did that.',
+      'I didnt want to send a hurried paragraph over a chat screen that disappears in an hour.',
+      'A year turns quietly, but certain people shift the gravity of everyday days without even making a sound. U did that.',
       'So instead of something conventional, I built this space. Take your time with it.',
     ],
     closingLine: 'September 19 — for you.',
@@ -54,11 +54,11 @@ export const initialPersonalizationData: PersonalizationData = {
     {
       id: 'moment-2',
       tag: '02 / UNEXPECTED HUMOR',
-      title: 'The first time you actually made me laugh',
+      title: 'The first time u actually made me laugh',
       date: 'August',
-      previewNote: 'Not a polite courtesy laugh. An actual, out-loud, catching-my-breath reaction.',
+      previewNote: 'Not a polite courtesy laugh. An actual, out loud, catching my breath reaction lol.',
       expandedStory:
-        'You have this dry, sudden way of observing things that completely disarms me. I remember re-reading what you sent and thinking, “Oh. She’s completely different.”',
+        'U have this dry, sudden way of observing things that completely disarms me. I remember rereading what you sent and thinking, “She hits different ! ”',
       chatSnippet: {
         speakerA: 'Ranim',
         speakerB: 'Omar',
@@ -73,10 +73,10 @@ export const initialPersonalizationData: PersonalizationData = {
       tag: '03 / MIDNIGHT DRIFT',
       title: 'The conversation that lasted way too long',
       date: 'Late August',
-      previewNote: '“Haya nor9do a33333” — said hours before either of us actually slept.',
+      previewNote: '“It started with one topic and somehow ended somewhere completely different.',
       expandedStory:
-        'We kept finding new corners of thought to unravel. The room went pitch black, the screen glowed against the pillow, and neither of us wanted to be the one to surrender to sleep first.',
-      locationOrContext: '3:47 AM / Both of us exhausted but refusing to hang up',
+        'We started talking about one completely normal thing, then somehow jumped from one subject to another until the conversation made absolutely no sense anymore. At some point we were just sending random thoughts, arguing about nonsense, and laughing at things that probably wouldn’t be funny to anyone else.',
+      locationOrContext: 'Late night conversations and completely random topics',
     },
     {
       id: 'moment-4',
