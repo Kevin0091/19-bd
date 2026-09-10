@@ -116,7 +116,7 @@ export const initialPersonalizationData: PersonalizationData = {
       title: 'The voice note effect',
       teaser: 'When you send an audio message instead of typing…',
       fullMessage:
-        'Whenever you leave an audio clip, I almost never listen just once. The cadence of your voice, the way you breathe between sentences, how you laugh halfway through an explanation—it carries a reality that text never quite captures.',
+        'Whenever you leave an audio clip, I almost never listen just once. The cadence of your voice, the way you breathe between sentences, how you laugh halfway through an explanation it carries a reality that text never quite captures.',
       handwrittenNote: 'T3jbni kif t7ki blou8t el sfa9 😭😭',
     },
     {
@@ -497,7 +497,7 @@ openWhenLetters: [
       magnitude: 1.8,
       x: 22,
       y: 26,
-      message: 'The evening we spent talking about our childhood ambitions until the room turned light blue.',
+      message: 'The evening we spent talking about our childhood ambitions.',
     },
     {
       id: 'star-2',
@@ -515,7 +515,8 @@ openWhenLetters: [
       magnitude: 1.6,
       x: 64,
       y: 22,
-      message: 'The call where we fell asleep without hanging up. Waking up to the sound of soft breathing miles away.',
+      message: 'That random night conversation where we kept jumping from one topic to another lin sharna lel sbe7'.
+',
     },
     {
       id: 'star-4',
@@ -524,7 +525,7 @@ openWhenLetters: [
       magnitude: 2.1,
       x: 78,
       y: 52,
-      message: 'All the coffee shops, train stations, and dinner tables we haven’t sat at yet.',
+      message: 'El blasa mte3 el first date yli bch nhzk liha hahahaah 'EL WELJA'',
     },
     {
       id: 'star-5',
@@ -533,7 +534,7 @@ openWhenLetters: [
       magnitude: 1.3,
       x: 28,
       y: 72,
-      message: 'Every time you send a song or a photo saying “thought of you.”',
+      message: 'Every time u send a natural art photo ahhhh t9hr !',
     },
     {
       id: 'star-6',
