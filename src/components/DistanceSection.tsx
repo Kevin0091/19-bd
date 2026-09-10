@@ -120,7 +120,7 @@ export const DistanceSection: React.FC<DistanceSectionProps> = ({ data }) => {
         {/* Quiet footnote quote */}
         <div className="mt-10 pt-8 border-t border-white/[0.06] text-center">
           <p className="font-handwriting text-2xl text-[#c08d96]">
-            "Physical distance is just geography waiting on a plane ticket."
+            "That proves ino a good friendship is not always close !"
           </p>
         </div>
       </div>
