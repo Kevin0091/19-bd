@@ -515,7 +515,7 @@ openWhenLetters: [
       magnitude: 1.6,
       x: 64,
       y: 22,
-      message: 'That random night conversation where we kept jumping from one topic to another lin sharna lel sbe7'.
+      message: 'That random night conversation where we kept jumping from one topic to another lin sharna lel sbe7',
 ',
     },
     {
