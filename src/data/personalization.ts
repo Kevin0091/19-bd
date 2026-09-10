@@ -488,7 +488,7 @@ openWhenLetters: [
     scratchNote: 'Okay, I rewrote this part three times because words felt too stiff msatka wlh.',
     finalWish: 'Happy Birthday, Ranim. September 19 is a good day because of u <3.',
   },
-
+  
   nightSkyStars: [
     {
       id: 'star-1',
@@ -506,7 +506,8 @@ openWhenLetters: [
       magnitude: 1.4,
       x: 38,
       y: 45,
-      message: '“If anyone saw our chat logs with zero context, we would both be committed.”',
+      message:
+        'If anyone saw our chat logs with zero context, we would both be committed.',
     },
     {
       id: 'star-3',
@@ -515,8 +516,8 @@ openWhenLetters: [
       magnitude: 1.6,
       x: 64,
       y: 22,
-      message: 'That random night conversation where we kept jumping from one topic to another lin sharna lel sbe7',
-',
+      message:
+        'That random night conversation where we kept jumping from one topic to another lin sharna lel sbe7.',
     },
     {
       id: 'star-4',
@@ -525,7 +526,8 @@ openWhenLetters: [
       magnitude: 2.1,
       x: 78,
       y: 52,
-      message: 'El blasa mte3 el first date yli bch nhzk liha hahahaah 'EL WELJA'',
+      message:
+        "El blasa mte3 el first date yli bch nhzk liha hahahah 'EL WELJA'.",
     },
     {
       id: 'star-5',
@@ -544,7 +546,7 @@ openWhenLetters: [
       x: 50,
       y: 48,
       message:
-        'To the girl who makes distance feel like a temporary detail in a permanent story. Happy Birthday, Ranim.',
+        'To the girl who makes every conversation more memorable. Happy Birthday, Ranim.',
       isSpecialBirthdayStar: true,
     },
   ],
